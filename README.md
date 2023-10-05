@@ -18,7 +18,7 @@ The WhatsApp Chat Analyzer is a web application built with Streamlit that allows
 
 ## Demo
 
-[Insert a link to a live demo of your application here, if available.]
+[[Insert a link to a live demo of your application here, if available.](https://sm-whatsapp.streamlit.app/)]
 
 ## Getting Started
 
@@ -28,8 +28,16 @@ These instructions will help you set up and run the WhatsApp Chat Analyzer on yo
 
 Before you begin, ensure you have met the following requirements:
 
-- Python (version X.X)
-- [List any other prerequisites or dependencies here.]
+  - Streamlit
+  - Matplotlib
+  - Seaborn
+  - Urlextract
+  - Wordcloud
+  - Pandas
+  - Emoji
+  - Plotly
+  - Advertools
+  - NLTK
 
 ### Installation
 
