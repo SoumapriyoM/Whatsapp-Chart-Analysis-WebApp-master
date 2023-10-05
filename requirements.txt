@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
+plotly
+advertools
+nltk
