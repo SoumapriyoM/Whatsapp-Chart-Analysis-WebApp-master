@@ -18,7 +18,7 @@ The WhatsApp Chat Analyzer is a web application built with Streamlit that allows
 
 ## Demo
 
-[[Insert a link to a live demo of your application here, if available.](https://sm-whatsapp.streamlit.app/)]
+[[Deployed web app.](https://sm-whatsapp.streamlit.app/)]
 
 ## Getting Started
 
