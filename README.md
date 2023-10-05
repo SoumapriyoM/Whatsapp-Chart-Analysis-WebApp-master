@@ -1,6 +1,6 @@
 # WhatsApp Chat Analyzer
 
-![WhatsApp Chat Analyzer Logo](y8-PTBaP90a.png)
+![WhatsApp Chat Analyzer Logo](y8-PTBaP90a.png)(https://sm-whatsapp.streamlit.app)
 
 ## Overview
 
@@ -18,7 +18,7 @@ The WhatsApp Chat Analyzer is a web application built with Streamlit that allows
 
 ## Demo
 
-[Deployed web app.](https://sm-whatsapp.streamlit.app)
+
 
 ## Getting Started
 
