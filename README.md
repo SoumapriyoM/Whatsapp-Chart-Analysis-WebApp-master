@@ -1,6 +1,6 @@
 # WhatsApp Chat Analyzer
 
-![WhatsApp Chat Analyzer Logo](link_to_your_logo_image.png)
+![WhatsApp Chat Analyzer Logo](y8-PTBaP90a.png)
 
 ## Overview
 
