@@ -17,6 +17,9 @@ The WhatsApp Chat Analyzer is a web application built with Streamlit that allows
 - Perform sentiment analysis on messages.
 
 ## Demo
+on render
+
+https://whats-analyze.onrender.com/
 
 https://sm-whatsapp.streamlit.app/
 
