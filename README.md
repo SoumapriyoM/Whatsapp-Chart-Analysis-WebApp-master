@@ -21,7 +21,7 @@ on render
 
 https://whats-analyze.onrender.com/
 
-https://sm-whatsapp.streamlit.app/
+https://sm-whatsapp.streamlit.app
 
 ## Getting Started
 
